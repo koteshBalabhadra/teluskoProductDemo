@@ -20,7 +20,7 @@ public class ProductApp {
 		service.addProduct(new Product("Logi Mouse", "Mouse", "Black Table", 2022));
 		service.addProduct(new Product("Apple Mouse", "Mouse", "White Table", 2022));
 		service.addProduct(new Product("Lenovo Mouse", "Mouse", "Black Drawer", 2022));
-		service.addProduct(new Product("BlackBeast", "Computer", "White Table", 2026));
+		service.addProduct(new Product("BlackBeast", "Computer", "White Table", 2036));
 	}
 
 	static void displayDetails(List<Product> items) {
